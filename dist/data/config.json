@@ -1,0 +1,72 @@
+{
+    "upper": [
+        [
+            {
+                "element": "H",
+                "name": "HTML",
+                "type": "html"
+            },
+            {
+                "element": "Li",
+                "name": "List",
+                "type": "css"
+            },
+            {
+                "element": "Na",
+                "name": "NaN",
+                "type": "js"
+            },
+            {
+                "element": "K",
+                "name": "keys",
+                "type": "js"
+            },
+            {
+                "element": "Rb",
+                "name": "resizeBy",
+                "type": "js"
+            },
+            {
+                "element": "Cs",
+                "name": ".css",
+                "type": "js"
+            },
+            {
+                "element": "Fr",
+                "name": "Frames",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "Be",
+                "name": ".before",
+                "type": "js"
+            },
+            {
+                "element": "Mg",
+                "name": "Xxxxx",
+                "type": "xx"
+            },
+            {
+                "element": "Ca",
+                "name": "Canvas",
+                "type": "html"
+            },
+            {
+                "element": "Sr",
+                "name": "...Spread",
+                "type": "js"
+            },
+            {
+                "element": "Ba",
+                "name": "base64",
+                "type": "js"
+            },
+            {
+                "element": "Ra",
+                "name": "Range",
+                "type": "js"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,12 @@
+@mixin box($value) {
+    width: $value;
+    height: $value;
+}
+
+@mixin vendorPrefix($prop, $val) {
+	-o-#{$prop}: #{$val};
+	-ms-#{$prop}: #{$val};
+	-moz-#{$prop}: #{$val};
+	-webkit-#{$prop}: #{$val};
+	#{$prop}: #{$val};
+}

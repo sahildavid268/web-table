@@ -14,8 +14,8 @@ module.exports = {
     entry: [
         'webpack-hot-middleware/client?reload=true&',
         path.join(srcPath, 'js', 'index.js'),
-        path.join(srcPath, 'sass', 'core.scss'),
     ],
+    devtool: 'source-map',
     output: {
         path: buildPath,
         filename: "assets/js/bundle.js"
@@ -45,6 +45,14 @@ module.exports = {
                     }],
                     fallback: "style-loader"
                 })
+            },
+            {
+                test: /\.(eot|svg|ttf|woff|woff2)$/,
+                loader: 'file-loader?name=[name].[ext]&publicPath=../../&outputPath=assets/fonts/'
+            },
+            {
+                test: /\.json$/,
+                loader: 'file-loader?name=config.json&outputPath=data/'
             }
         ]
     }

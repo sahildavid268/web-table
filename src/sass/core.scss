@@ -1,6 +1,6 @@
 @import "partials/vars";
+@import "partials/mixins";
 
-body {
-    background: $body-bgcolor;
-    color: $primary-color;
-}
+@import "partials/ui";
+
+@import "partials/webTable";
