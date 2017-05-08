@@ -44,8 +44,8 @@
             },
             {
                 "element": "Mg",
-                "name": "Xxxxx",
-                "type": "xx"
+                "name": "--",
+                "type": "--"
             },
             {
                 "element": "Ca",
@@ -66,6 +66,407 @@
                 "element": "Ra",
                 "name": "Range",
                 "type": "js"
+            }
+        ],[
+            {
+                "element": "Sc",
+                "name": "Screen",
+                "type": "js"
+            },
+            {
+                "element": "Y",
+                "name": "Yield",
+                "type": "js"
+            },
+            {
+                "element": "",
+                "name": "",
+                "type": ""
+            },
+            {
+                "element": "",
+                "name": "",
+                "type": ""
+            }
+        ],[
+            {
+                "element": "Ti",
+                "name": "Title",
+                "type": "html"
+            },
+            {
+                "element": "Zr",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Hf",
+                "name": "href",
+                "type": "html"
+            },
+            {
+                "element": "Rf",
+                "name": "Reflecton",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "V",
+                "name": "var",
+                "type": "js"
+            },
+            {
+                "element": "Nb",
+                "name": "Number",
+                "type": "js"
+            },
+            {
+                "element": "Ta",
+                "name": "Table",
+                "type": "html"
+            },
+            {
+                "element": "Db",
+                "name": "Debugger",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "Cr",
+                "name": "Clear",
+                "type": "css"
+            },
+            {
+                "element": "Mo",
+                "name": "mod",
+                "type": "js"
+            },
+            {
+                "element": "W",
+                "name": "window",
+                "type": "js"
+            },
+            {
+                "element": "Sg",
+                "name": "svg",
+                "type": "html"
+            }
+        ],[
+            {
+                "element": "Mn",
+                "name": "min",
+                "type": "js"
+            },
+            {
+                "element": "Tc",
+                "name": "try..catch",
+                "type": "js"
+            },
+            {
+                "element": "Re",
+                "name": "ReqAnimFr",
+                "type": "js"
+            },
+            {
+                "element": "Bh",
+                "name": "--",
+                "type": "--"
+            }
+        ],[
+            {
+                "element": "Fe",
+                "name": "foreach",
+                "type": "js"
+            },
+            {
+                "element": "Ru",
+                "name": "Request",
+                "type": "js"
+            },
+            {
+                "element": "Os",
+                "name": ".offset",
+                "type": "js"
+            },
+            {
+                "element": "Hs",
+                "name": "hasOwnPr.",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "Co",
+                "name": "Console",
+                "type": "js"
+            },
+            {
+                "element": "Rh",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Ir",
+                "name": "Iterator",
+                "type": "js"
+            },
+            {
+                "element": "Mt",
+                "name": "match",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "Ni",
+                "name": "not in",
+                "type": "js"
+            },
+            {
+                "element": "Pd",
+                "name": "path2d",
+                "type": "js"
+            },
+            {
+                "element": "Pt",
+                "name": "parseInt",
+                "type": "js"
+            },
+            {
+                "element": "Ds",
+                "name": "Destructur.",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "Cu",
+                "name": "Constructor",
+                "type": "js"
+            },
+            {
+                "element": "Ag",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Au",
+                "name": "Audio",
+                "type": "html"
+            },
+            {
+                "element": "Rg",
+                "name": "regex.",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "Zn",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Cd",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Hg",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Cn",
+                "name": "Count",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "B",
+                "name": "Body",
+                "type": "html"
+            },
+            {
+                "element": "Al",
+                "name": "alert",
+                "type": "js"
+            },
+            {
+                "element": "Ga",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "In",
+                "name": "int",
+                "type": "js"
+            },
+            {
+                "element": "Tl",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Uut",
+                "name": "--",
+                "type": "--"
+            }
+        ],[
+            {
+                "element": "C",
+                "name": "Class",
+                "type": "js"
+            },
+            {
+                "element": "Si",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Ge",
+                "name": ".get",
+                "type": "js"
+            },
+            {
+                "element": "Sn",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Pb",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Fl",
+                "name": ".filter",
+                "type": "js"
+            }
+        ],[
+            {
+                "element": "N",
+                "name": "Null",
+                "type": "js"
+            },
+            {
+                "element": "P",
+                "name": "Promise",
+                "type": "js"
+            },
+            {
+                "element": "As",
+                "name": "async",
+                "type": "js"
+            },
+            {
+                "element": "Sn",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Pb",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Uup",
+                "name": "--",
+                "type": "--"
+            }
+        ],[
+            {
+                "element": "O",
+                "name": "Object",
+                "type": "js"
+            },
+            {
+                "element": "S",
+                "name": "String",
+                "type": "js"
+            },
+            {
+                "element": "Se",
+                "name": ".serialize",
+                "type": "js"
+            },
+            {
+                "element": "Te",
+                "name": ".then",
+                "type": "js"
+            },
+            {
+                "element": "Po",
+                "name": ".post",
+                "type": "js"
+            },
+            {
+                "element": "Lv",
+                "name": "--",
+                "type": "--"
+            }
+        ],[
+            {
+                "element": "F",
+                "name": ".find",
+                "type": "js"
+            },
+            {
+                "element": "Cl",
+                "name": ".call",
+                "type": "js"
+            },
+            {
+                "element": "Br",
+                "name": "break",
+                "type": "html"
+            },
+            {
+                "element": "I",
+                "name": "Italics",
+                "type": "css"
+            },
+            {
+                "element": "At",
+                "name": ".attr",
+                "type": "js"
+            },
+            {
+                "element": "Uus",
+                "name": "--",
+                "type": "--"
+            }
+        ],[
+            {
+                "element": "He",
+                "name": ".height",
+                "type": "js"
+            },
+            {
+                "element": "Ne",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Ar",
+                "name": "Arrow fn",
+                "type": "js"
+            },
+            {
+                "element": "Kr",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Xe",
+                "name": "--",
+                "type": "--"
+            },
+            {
+                "element": "Rn",
+                "name": "Round",
+                "type": "js"
+            },
+            {
+                "element": "Uuo",
+                "name": "--",
+                "type": "--"
             }
         ]
     ]
