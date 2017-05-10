@@ -53,6 +53,10 @@ module.exports = {
             {
                 test: /\.json$/,
                 loader: 'file-loader?name=config.json&outputPath=data/'
+            },
+            {
+                test: /\.ico$/,
+                loader: 'file-loader?name=[name].[ext]&outputPath=assets/images/'
             }
         ]
     }

@@ -65,7 +65,7 @@
             padding: 2px 5px;
         }
 
-        &:hover {
+        &:not(.ext):not(.na):hover {
             @include vendorPrefix(transform, scale(1.2));
             z-index: 10;
             border: 1px solid $black;
@@ -101,6 +101,17 @@
 
         &.na {
             opacity: 0;
+            * {
+                display: none;
+            }
+        }
+
+        &.ext {
+            cursor: default;
+
+            .element-parent {
+                display: none;
+            }
         }
     }
 }

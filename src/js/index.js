@@ -10,6 +10,8 @@ import '../sass/core.scss';
 
 import Data from '../data/config.json';
 
+import favicon from '../images/favicon.ico';
+
 class Main extends React.Component {
     render() {
         return (
