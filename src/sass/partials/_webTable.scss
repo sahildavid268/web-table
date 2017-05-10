@@ -98,5 +98,9 @@
                 color: $htmlLabel;
             }
         }
+
+        &.na {
+            opacity: 0;
+        }
     }
 }

@@ -44,8 +44,8 @@
             },
             {
                 "element": "Mg",
-                "name": "--",
-                "type": "--"
+                "name": "margin",
+                "type": "css"
             },
             {
                 "element": "Ca",
@@ -79,12 +79,12 @@
                 "type": "js"
             },
             {
-                "element": "",
+                "element": "La",
                 "name": "",
                 "type": ""
             },
             {
-                "element": "",
+                "element": "Ac",
                 "name": "",
                 "type": ""
             }
@@ -96,8 +96,8 @@
             },
             {
                 "element": "Zr",
-                "name": "--",
-                "type": "--"
+                "name": "zero-width",
+                "type": "html"
             },
             {
                 "element": "Hf",
@@ -169,8 +169,8 @@
             },
             {
                 "element": "Bh",
-                "name": "--",
-                "type": "--"
+                "name": "Bluetooth",
+                "type": "js"
             }
         ],[
             {
@@ -201,8 +201,8 @@
             },
             {
                 "element": "Rh",
-                "name": "--",
-                "type": "--"
+                "name": "right",
+                "type": "css"
             },
             {
                 "element": "Ir",
@@ -222,8 +222,8 @@
             },
             {
                 "element": "Pd",
-                "name": "path2d",
-                "type": "js"
+                "name": "padding",
+                "type": "css"
             },
             {
                 "element": "Pt",
@@ -243,8 +243,8 @@
             },
             {
                 "element": "Ag",
-                "name": "--",
-                "type": "--"
+                "name": "args",
+                "type": "js"
             },
             {
                 "element": "Au",
@@ -259,18 +259,18 @@
         ],[
             {
                 "element": "Zn",
-                "name": "--",
-                "type": "--"
+                "name": "z-index",
+                "type": "css"
             },
             {
                 "element": "Cd",
-                "name": "--",
-                "type": "--"
+                "name": "code",
+                "type": "html"
             },
             {
                 "element": "Hg",
-                "name": "--",
-                "type": "--"
+                "name": "highlight",
+                "type": "css"
             },
             {
                 "element": "Cn",
@@ -290,8 +290,8 @@
             },
             {
                 "element": "Ga",
-                "name": "--",
-                "type": "--"
+                "name": "gradient",
+                "type": "css"
             },
             {
                 "element": "In",
@@ -300,13 +300,13 @@
             },
             {
                 "element": "Tl",
-                "name": "--",
-                "type": "--"
+                "name": "touchList",
+                "type": "js"
             },
             {
                 "element": "Uut",
                 "name": "--",
-                "type": "--"
+                "type": "na"
             }
         ],[
             {
@@ -316,8 +316,8 @@
             },
             {
                 "element": "Si",
-                "name": "--",
-                "type": "--"
+                "name": "setInterval",
+                "type": "js"
             },
             {
                 "element": "Ge",
@@ -326,13 +326,13 @@
             },
             {
                 "element": "Sn",
-                "name": "--",
-                "type": "--"
+                "name": "span",
+                "type": "html"
             },
             {
                 "element": "Pb",
-                "name": "--",
-                "type": "--"
+                "name": "personalbar",
+                "type": "js"
             },
             {
                 "element": "Fl",
@@ -356,19 +356,19 @@
                 "type": "js"
             },
             {
-                "element": "Sn",
-                "name": "--",
-                "type": "--"
+                "element": "Sb",
+                "name": "substring",
+                "type": "js"
             },
             {
-                "element": "Pb",
-                "name": "--",
-                "type": "--"
+                "element": "Bi",
+                "name": ".bind",
+                "type": "js"
             },
             {
                 "element": "Uup",
                 "name": "--",
-                "type": "--"
+                "type": "na"
             }
         ],[
             {
@@ -398,8 +398,8 @@
             },
             {
                 "element": "Lv",
-                "name": "--",
-                "type": "--"
+                "name": "<h> levels",
+                "type": "html"
             }
         ],[
             {
@@ -430,7 +430,7 @@
             {
                 "element": "Uus",
                 "name": "--",
-                "type": "--"
+                "type": "na"
             }
         ],[
             {
@@ -440,8 +440,8 @@
             },
             {
                 "element": "Ne",
-                "name": "--",
-                "type": "--"
+                "name": "new",
+                "type": "js"
             },
             {
                 "element": "Ar",
@@ -450,13 +450,13 @@
             },
             {
                 "element": "Kr",
-                "name": "--",
-                "type": "--"
+                "name": "keyboardEv.",
+                "type": "js"
             },
             {
                 "element": "Xe",
-                "name": "--",
-                "type": "--"
+                "name": "XMLSerial..",
+                "type": "js"
             },
             {
                 "element": "Rn",
@@ -466,7 +466,7 @@
             {
                 "element": "Uuo",
                 "name": "--",
-                "type": "--"
+                "type": "na"
             }
         ]
     ]
